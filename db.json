@@ -4,25 +4,29 @@
             "id" : 1,
             "title" : "Produs 1",
             "description": "Nu bate, nu troncane",
-            "userId": 1
+            "userId": 1,
+            "price": 123
         },
         {
             "id" : 2,
             "title" : "Produs 1",
             "description": "Nu bate, troncane",
-            "userId": 1
+            "userId": 1,
+            "price": 223
         },
         {
             "id" : 3,
             "title" : "Produs 1",
             "description": "bate, nu troncane",
-            "userId": 1
+            "userId": 1,
+            "price": 323
         },
         {
             "id" : 4,
             "title" : "Produs 1",
             "description": "bate, troncane",
-            "userId": 1
+            "userId": 1,
+            "price": 423
         }
     ]
 }
